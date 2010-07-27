@@ -1,0 +1,13 @@
+This open source Android Application is so others can see how to implement the Airbana API into their Android Apps or Fork this app to make it better.
+
+Except as otherwise noted, the Airbana Airsoft Android App is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported Licence
+
+Status
+============
+
+This code base will be the 1.2 release of the Airbana Airsoft Android App, further updates will be pushed to this repository.
+
+Known Issues
+------------
+In conditions that have yet to be discovered an IndexOutofBounds error is thrown
+
